@@ -84,7 +84,7 @@ Mail : junheelee95@gmail.com
 - FastAPI 기반 AI 추론 API 구현
 - 제조 AI 신규 방법론 연구·개발
 
-
+ 
 ---
 
 ### 📝 Project Experience (2025.09 ~ Current) [Archive](https://github.com/iureifjdkncd/B2B_AI_Projects_2025.09-Current/tree/main) 
